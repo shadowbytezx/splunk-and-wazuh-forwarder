@@ -1,0 +1,1 @@
+# splunk-and-wazuh-forwarder
